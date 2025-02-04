@@ -44,7 +44,8 @@ Copy
 Edit
 pymol scripts/visualize_interface.pml
 📜 License
-🔹 Open-source under the Personal License.
+🔹 This project is **privately licensed**. Unauthorized use, copying, or distribution is strictly prohibited.
+For inquiries regarding permissions, please contact arya.dhokte@gmail.com .
 💡 Contributions Welcome! Fork the repo, submit pull requests, or report issues. 🚀
 
 
