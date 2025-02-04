@@ -33,16 +33,11 @@ This repository provides a Python-based workflow to identify interface residues 
 pip install -r requirements.txt
 2️⃣ Run the analysis:
 
-bash
-Copy
-Edit
 python scripts/analyze_interface.py
 3️⃣ Visualize interface residues in PyMOL:
 
-bash
-Copy
-Edit
 pymol scripts/visualize_interface.pml
+
 📜 License
 🔹 This project is privately licensed. Unauthorized use, copying, or distribution is strictly prohibited.
 For inquiries regarding permissions, please contact arya.dhokte@gmail.com.
