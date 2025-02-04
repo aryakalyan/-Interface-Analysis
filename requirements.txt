@@ -1,0 +1,3 @@
+pandas
+biopython
+pymol-open-source
