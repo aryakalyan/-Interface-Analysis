@@ -17,12 +17,19 @@ This repository provides a Python-based workflow to identify interface residues 
 
 ## 📂 Repository Structure
 
-📦 protein-rna-interface-analysis ┣ 📂 data # Input ASA and PDB files
-┣ 📂 scripts # Python analysis & PyMOL visualization
-┣ 📄 README.md # Documentation
-┣ 📄 requirements.txt # Python dependencies
-┣ 📄 LICENSE # Open-source license
-┗ 📄 .gitignore # Ignore unnecessary files
+📦 protein-rna-interface-analysis
+ ┣ 📂 data
+ ┃ ┣ 📄 protein.asa
+ ┃ ┣ 📄 rna.asa
+ ┃ ┣ 📄 complex.asa
+ ┃ ┗ 📄 example.pdb
+ ┣ 📂 scripts
+ ┃ ┣ 📄 analyze_interface.py
+ ┃ ┗ 📄 visualize_interface.pml
+ ┣ 📄 requirements.txt
+ ┣ 📄 README.md
+ ┣ 📄 LICENSE
+ ┗ 📄 .gitignore
 
 
 ## 🛠 Installation & Usage
